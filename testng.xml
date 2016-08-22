@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="Suite1" verbose="1" >
+  
+ 
+  <test name="FunctionalTest">
+    <classes>
+      <class name="core.A_SignUpPage_ElementValidationTNG"/>
+      <class name="core.B_SignUpPage_FunctionalValidationTNG"/>
+      <class name="core.C_SignUpPage_ErrorHandlingTNG"/> 
+    </classes>
+  </test>
+</suite>
