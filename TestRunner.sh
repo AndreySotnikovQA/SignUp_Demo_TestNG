@@ -1,8 +1,8 @@
 #!/bin/sh
 # ========================================
-GITHUB_ACCOUNT=AndreySotnikovQA
-WS_DIR= -{ADD YOUR DIRECTORY HERE}-
-REPO_NAME=SignUp_Demo_TestNG
+GITHUB_ACCOUNT=
+WS_DIR= 
+REPO_NAME=
 APP_VERSION=0.1
 MAIN_CLASS=core.A_SignUpPage_ElementValidationTNG
 ARGS_01=  
